@@ -1,3 +1,3 @@
-# Reposivedesign
+# Reponsivedesign
 
-# Just a pratice on responsive design in HTML
+Just a pratice on responsive design in HTML
